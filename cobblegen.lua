@@ -328,7 +328,7 @@ end
 
 if validateInventory() then
  
---  buildGenerator()
+  buildGenerator()
  
   mineTillFull()
 
